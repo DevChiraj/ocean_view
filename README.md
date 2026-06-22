@@ -1,2 +1,1 @@
-git add src/com/oceanview/dao/ReportDAO.java
-git commit -m "TDD RED: Add empty getMonthlyIncome method in ReportDAO"
+The OceanView Resort Management System is a professional Java-based application built using the MVC architecture to streamline hotel operations, including guest reservations, automated billing, and financial reporting. By following Test-Driven Development (TDD) principles, the system ensures high reliability, while its structured design allows for clear role-based access control between Admin and Staff users. Overall, it provides a scalable and efficient solution for managing resort data, complete with specialized payment handling and detailed insights into system performance.
